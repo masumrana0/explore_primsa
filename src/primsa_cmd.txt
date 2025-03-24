@@ -1,0 +1,11 @@
+npx prisma generate - Generates type-safe code based on the provided model
+npx prisma migrate - Applies migrations and ensures type safety both
+npx prisma validate - Validates the schema
+npx prisma format - Formats the code
+npx prisma db pull --print - Checks the existing schema in the database
+npx prisma db push  - it's not migrate but it's push schema in the db
+
+
+
+
+
